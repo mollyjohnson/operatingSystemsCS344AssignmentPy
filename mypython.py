@@ -1,8 +1,11 @@
 #Molly Johnson
 #OSU CS 344 Assignment Py
-#due: 11/19/18
+#due: 2/27/19
 #ONID: johnsmol
 #python version used: Python 3. Run with: python3 mypython.py
+#Adapted from my own work previously created on 11/19/18 (I took
+#the class previously in the Fall 2018 term but am retaking for a
+#better grade).
 
 #importing random and string, and getting a specified number of random
 #lowercase chars adapted from:
